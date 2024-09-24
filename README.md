@@ -5,7 +5,7 @@
 - <b>Home Labs</b>
  
   - [Nessuss Essentials Vulnurability Scan](https://github.com/AlbatrossOP/NessusHomeLab)
-
+  - [Controls and Compliance Assessment](https://github.com/AlbatrossOP/Controls-and-Compliance-Assessment/tree/main)
 
 <h2>Certifications:</h2>
 <a href="https://www.credly.com/badges/74dd7c8b-55d0-4d9c-9c4b-130f28e41d15/">Google Cybersecurity Certificate</a></h1>
