@@ -8,7 +8,7 @@
   - [Controls and Compliance Assessment](https://github.com/AlbatrossOP/Controls-and-Compliance-Assessment/tree/main)
   - [Updating Files Using A Python Algorithm](https://github.com/AlbatrossOP/Updating-Files-Using-a-Python-Algorithm)
   - [Applying Filters To SQL Queries](https://github.com/AlbatrossOP/Applying-Filters-to-SQL-Queries)
-  - [Editing File and Directory Permissions in Linux]
+  - [Editing File and Directory Permissions in Linux](https://github.com/AlbatrossOP/Editing-File-and-Directory-Permissions-in-Linux)
 
 <h2>Certifications:</h2>
 <a href="https://www.credly.com/badges/74dd7c8b-55d0-4d9c-9c4b-130f28e41d15/">Google Cybersecurity Certificate</a></h1>
