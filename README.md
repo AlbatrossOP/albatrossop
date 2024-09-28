@@ -1,5 +1,5 @@
 <h1>Hi, I'm Thomas! <br/><a href="https://github.com/AlbatrossOP">Programmer</a>, <a href="https://www.linkedin.com/in/thomas-lapointe-60a2a7128/">Cybersecurity Professional</a></h1>
-<h2> I am an aspiring cybersecurity analyst and project manager - Currently working diligently to build my security/IT skills through courses, certifications, and projects/labs. I am excited to continue learning.</h2>
+<h2> I am an aspiring cybersecurity analyst and project manager - Currently working diligently to build my security/IT skills through courses, certifications, and projects/labs. I am excited to continue learning!</h2>
 
 <h2>👨‍💻 Cybersecurity and Software Development Projects:</h2>
 - <b>Home Labs</b>
