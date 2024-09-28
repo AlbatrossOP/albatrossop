@@ -7,7 +7,7 @@
   - [Nessuss Essentials Vulnurability Scan](https://github.com/AlbatrossOP/NessusHomeLab)
   - [Controls and Compliance Assessment](https://github.com/AlbatrossOP/Controls-and-Compliance-Assessment/tree/main)
   - [Updating Files Using A Python Algorithm](https://github.com/AlbatrossOP/Updating-Files-Using-a-Python-Algorithm)
-  - [Applying filters to SQL queries](https://github.com/AlbatrossOP/Applying-Filters-to-SQL-Queries)
+  - [Applying Filters To SQL Queries](https://github.com/AlbatrossOP/Applying-Filters-to-SQL-Queries)
 
 <h2>Certifications:</h2>
 <a href="https://www.credly.com/badges/74dd7c8b-55d0-4d9c-9c4b-130f28e41d15/">Google Cybersecurity Certificate</a></h1>
